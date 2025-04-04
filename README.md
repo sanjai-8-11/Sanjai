@@ -40,31 +40,19 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjai&" alt="sanjai" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjai&show_icons=true&locale=en&layout=compact&theme=radical&title_color=00FFFF&text_color=FF00FF&bg_color=000000" alt="sanjai" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=dark&background=000000" alt="GitHub Streak" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjai&show_icons=true&locale=en&theme=radical&title_color=FF00FF&icon_color=00FFFF&text_color=00FFFF&bg_color=000000" alt="sanjai" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=gruvbox_duo&fire=FF4500" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=radical&ring=00FFFF&fire=FF00FF" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=highcontrast" alt="GitHub Streak" />
-</p>
 
 
