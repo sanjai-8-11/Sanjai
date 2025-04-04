@@ -59,5 +59,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=radical&ring=00FFFF&fire=FF00FF" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=highcontrast" alt="GitHub Streak" />
+</p>
 
 
