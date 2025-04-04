@@ -31,20 +31,13 @@
 
 </p>
 
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjai&show_icons=true&locale=en&layout=compact" alt="sanjai" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjai&show_icons=true&locale=en" alt="sanjai" />
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjai&show_icons=true&locale=en&layout=compact&theme=radical&title_color=00FFFF&text_color=FF00FF&bg_color=000000" alt="sanjai" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjai&show_icons=true&locale=en&theme=radical&title_color=FF00FF&icon_color=00FFFF&text_color=00FFFF&bg_color=000000" alt="sanjai" />
 </p>
 
 
