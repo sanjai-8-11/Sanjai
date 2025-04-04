@@ -1,10 +1,10 @@
 [![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://github.com/Suchitra-Sahoo)
 <h1 align="center">Hi 👋, I'm Sanjai Sivakumar</h1>
 <h3 align="center">An Aspiring Mern Stack web developer </h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 
-<p align="left"> <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" alt="sanjai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjai&label=Profile%20views&color=0e75b6&style=flat" alt="sanjai" /> </p>
 
 - 🔭 I’m currently working on Backend Development.
 
