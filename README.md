@@ -32,10 +32,19 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjay&show_icons=true&locale=en&layout=compact" alt="sanjay" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjai&show_icons=true&locale=en&layout=compact" alt="sanjai" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjay&show_icons=true&locale=en" alt="sanjay" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjai&show_icons=true&locale=en" alt="sanjai" />
 </p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjai&" alt="sanjai" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=dark&background=000000" alt="GitHub Streak" />
+</p>
+
 
