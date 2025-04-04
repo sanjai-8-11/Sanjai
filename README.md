@@ -6,9 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjai&label=Profile%20views&color=0e75b6&style=flat" alt="sanjai" /> </p>
 
+~ 💻 I'm a **Computer Science** student.
+
 - 🔭 I’m currently working on Backend Development.
 
-- 🌱 I’m currently learning **Python, MongoDB, Nodejs, ExpressJs, **
+- 🌱 I’m currently learning **Python, MongoDB, Nodejs, ExpressJs**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, SQL**
 
