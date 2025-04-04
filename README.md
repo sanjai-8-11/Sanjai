@@ -47,4 +47,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=dark&background=000000" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=gruvbox_duo&fire=FF4500" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=radical&ring=00FFFF&fire=FF00FF" alt="GitHub Streak" />
+</p>
+
+
 
