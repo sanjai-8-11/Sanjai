@@ -45,7 +45,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaidev&theme=radical&ring=00FFFF&fire=FF00FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjai-8-11dev&theme=radical&ring=00FFFF&fire=FF00FF" alt="GitHub Streak" />
 </p>
 
 
