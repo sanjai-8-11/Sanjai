@@ -1,6 +1,13 @@
 [![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://https://github.com/sanjai-8-11)
 <h1 align="center">Hi 👋, I'm Sanjai Sivakumar</h1>
 <h3 align="center">An Aspiring Mern Stack web developer </h3>
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sanjai;I+love+web+development;Let’s+build+cool+things+🚀&font=Fira+Code&center=true&width=435&color=1AC92A&size=24" alt="Typing SVG" />
+  </a>
+
+</div>
 <img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 
@@ -43,12 +50,25 @@
 </p>
 
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=sanjai-8-11&theme=radical&no-bg=true)
+<div align="center">
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=sanjai-8-11&theme=radical&no-bg=true)
+
+</div>
+
 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjai-8-11&theme=radical&ring=00FFFF&fire=FF00FF" alt="GitHub Streak" />
 </p>
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+
 
 
 <table>
@@ -64,6 +84,12 @@
   </tr>
 </table>
 
+
+
+
+
+<div align="center">
+  
 <table>
 
   <tr>
@@ -71,7 +97,7 @@
     </tr>
 </table>
 
-
+</div>
 
 
 
