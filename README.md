@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjai&label=Profile%20views&color=0e75b6&style=flat" alt="sanjai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjai-8-11&label=Profile%20views&color=0e75b6&style=flat" alt="sanjai" /> </p>
 
 ~ 💻 I'm a **Computer Science** student.
 
@@ -35,11 +35,11 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjai&show_icons=true&locale=en&layout=compact" alt="sanjai" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjai-8-11&show_icons=true&locale=en&layout=compact" alt="sanjai" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjai&show_icons=true&locale=en" alt="sanjai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjai-8-11&show_icons=true&locale=en" alt="sanjai" />
 </p>
 
 
