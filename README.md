@@ -51,20 +51,22 @@
 </p>
 
 
-
-
-
 <table>
   <tr>
     <td align="center" colspan="2">
-      <a href="https://github.com/sanjai-8-11#gh-light-mode-only">
-        <img src="https://raw.githubusercontent.com/sanjai-8-11/sanjai-8-11/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" />
+      <a href="https://github.com/sanjai#gh-light-mode-only">
+        <img src="https://raw.githubusercontent.com/sanjai/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" />
       </a>
-      <a href="https://github.com/sanjai-8-11#gh-dark-mode-only">
-        <img src="https://raw.githubusercontent.com/sanjai-8-11/sanjai-8-11/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+      <a href="https://github.com/sanjai#gh-dark-mode-only">
+        <img src="https://raw.githubusercontent.com/sanjai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
       </a>
     </td>
   </tr>
+</table>
+
+
+
+
 </table>
 
 
