@@ -42,6 +42,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjai-8-11&show_icons=true&locale=en" alt="sanjai" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=sanjai-8-11&color=brightgreen)
+![Followers](https://img.shields.io/github/followers/sanjai-8-11?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/sanjai-8-11?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode" />
+
 
 
 <p align="center">
