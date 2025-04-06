@@ -44,8 +44,8 @@
 
 ![snake gif](https://github.com/sanjai-8-11/sanjai-8-11/blob/output/github-contribution-grid-snake.svg)
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=sanjai-8-11&theme=radical&no-bg=true)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode" />
 
 
 
