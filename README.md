@@ -7,6 +7,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sanjai;I+love+web+development;Let’s+build+cool+things+🚀&font=Fira+Code&center=true&width=435&color=1AC92A&size=24" alt="Typing SVG" />
   </a>
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sanjai;I+love+web+development;Let’s+build+cool+things+🚀&font=Fira+Code&center=true&width=435&color=1AC92A&size=24)](https://git.io/typing-svg)
+
+
 </div>
 <img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
