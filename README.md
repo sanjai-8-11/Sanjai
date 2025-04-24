@@ -3,10 +3,7 @@
 <h3 align="center">An Aspiring Mern Stack web developer </h3>
 <div align="center">
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sanjai;I+love+web+development;Let’s+build+cool+things+🚀&font=Fira+Code&center=true&width=435&color=1AC92A&size=24" alt="Typing SVG" />
-  </a>
-
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sanjai;I+love+web+development;Let’s+build+cool+things+🚀&font=Fira+Code&center=true&width=435&color=1AC92A&size=24)](https://git.io/typing-svg)
 
 
@@ -74,18 +71,7 @@
 
 
 
-<table>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/sanjai#gh-light-mode-only">
-        <img src="https://raw.githubusercontent.com/sanjai/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" />
-      </a>
-      <a href="https://github.com/sanjai#gh-dark-mode-only">
-        <img src="https://raw.githubusercontent.com/sanjai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 
 
